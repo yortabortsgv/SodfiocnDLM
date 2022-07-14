@@ -19,11 +19,6 @@ newPRWelcomeComment: |
   - `Improved Asset Checkout: use new notification method for checkout`
 
   Things that will help get your PR across the finish line:
-
-  - Document any user-facing changes you've made.
-  - Include tests when adding/changing behavior.
-  - Include screenshots and animated GIFs whenever possible.
-
   We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
